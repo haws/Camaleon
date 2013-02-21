@@ -2,9 +2,5 @@
     {
         "caption": "Camaleón : Next Color Scheme and Chrome Theme",
         "command": "camaleon"
-    },
-    {
-        "caption": "Camaleón : Random Colour Scheme",
-        "command": "camaleon_random_colour_scheme"
     }
 ]
